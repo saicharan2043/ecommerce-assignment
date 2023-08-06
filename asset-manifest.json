@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ecommerce-assignment-deploy/static/css/main.018d5e3c.css",
-    "main.js": "/ecommerce-assignment-deploy/static/js/main.7dfcd399.js",
+    "main.js": "/ecommerce-assignment-deploy/static/js/main.58ccaef4.js",
     "static/js/787.d3befce1.chunk.js": "/ecommerce-assignment-deploy/static/js/787.d3befce1.chunk.js",
     "index.html": "/ecommerce-assignment-deploy/index.html",
     "main.018d5e3c.css.map": "/ecommerce-assignment-deploy/static/css/main.018d5e3c.css.map",
-    "main.7dfcd399.js.map": "/ecommerce-assignment-deploy/static/js/main.7dfcd399.js.map",
+    "main.58ccaef4.js.map": "/ecommerce-assignment-deploy/static/js/main.58ccaef4.js.map",
     "787.d3befce1.chunk.js.map": "/ecommerce-assignment-deploy/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.018d5e3c.css",
-    "static/js/main.7dfcd399.js"
+    "static/js/main.58ccaef4.js"
   ]
 }
